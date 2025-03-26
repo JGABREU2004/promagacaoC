@@ -7,6 +7,8 @@ int main(){
     long int NumeroGrande = 4000000000;
     int Numero = 4000000000;
 
+    // fazendo teste com unsigned int, unsigned long int, long int e int
+
     printf("Número Grande Positivo: %lu\n", NumeroGrandePositico);
     printf("Número Positivo: %u\n", NumeroPositivo);
     printf("Número Grande: %ld\n", NumeroGrande);
